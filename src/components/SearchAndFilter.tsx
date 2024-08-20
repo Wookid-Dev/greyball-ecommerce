@@ -86,7 +86,7 @@ const SearchAndFilter = ({
               placeholder="Search products"
               onChange={(e) => setSearch(e.target.value)}
               value={search}
-              className="border border-gray-300 p-3 pl-10 w-full rounded-lg shadow-sm focus:outline-none focus:ring-2 focus:ring-blue-500"
+              className="border border-gray-300 p-3 pl-10 w-full rounded-lg shadow-sm focus:outline-none focus:ring-2 focus:ring-blue-500 text-gray-900"
             />
           </div>
         </div>
