@@ -1,0 +1,452 @@
+[
+    {
+        "id": 1,
+        "title": "Smart Home Hub",
+        "description": "Store and transfer your files securely",
+        "price": 510.48,
+        "currency": "USD",
+        "image": "https://via.placeholder.com/200?id=1",
+        "rating": 3.9
+    },
+    {
+        "id": 2,
+        "title": "Smart Light Bulb",
+        "description": "Best in class with cutting-edge features",
+        "price": 733.63,
+        "currency": "USD",
+        "image": "https://via.placeholder.com/200?id=2",
+        "rating": 4.7
+    },
+    {
+        "id": 3,
+        "title": "Gaming Console",
+        "description": "Keep an eye on your home from anywhere",
+        "price": 822.5,
+        "currency": "USD",
+        "image": "https://via.placeholder.com/200?id=3",
+        "rating": 4.3
+    },
+    {
+        "id": 4,
+        "title": "Smart Light Bulb",
+        "description": "Crystal-clear resolution for all your tasks",
+        "price": 724.08,
+        "currency": "USD",
+        "image": "https://via.placeholder.com/200?id=4",
+        "rating": 4.7
+    },
+    {
+        "id": 5,
+        "title": "Streaming Stick",
+        "description": "Draw and design with precision",
+        "price": 714.21,
+        "currency": "USD",
+        "image": "https://via.placeholder.com/200?id=5",
+        "rating": 3.1
+    },
+    {
+        "id": 6,
+        "title": "Camera",
+        "description": "Bring the big screen experience anywhere",
+        "price": 761.66,
+        "currency": "USD",
+        "image": "https://via.placeholder.com/200?id=6",
+        "rating": 3.6
+    },
+    {
+        "id": 7,
+        "title": "Tablet",
+        "description": "Capture stunning footage from above",
+        "price": 276.16,
+        "currency": "USD",
+        "image": "https://via.placeholder.com/200?id=7",
+        "rating": 1.1
+    },
+    {
+        "id": 8,
+        "title": "Wireless Earbuds",
+        "description": "Keep an eye on your home from anywhere",
+        "price": 54.93,
+        "currency": "USD",
+        "image": "https://via.placeholder.com/200?id=8",
+        "rating": 3.7
+    },
+    {
+        "id": 9,
+        "title": "External Hard Drive",
+        "description": "Control all your smart devices in one place",
+        "price": 469.38,
+        "currency": "USD",
+        "image": "https://via.placeholder.com/200?id=9",
+        "rating": 4.1
+    },
+    {
+        "id": 10,
+        "title": "Fitness Mirror",
+        "description": "Control all your smart devices in one place",
+        "price": 51.3,
+        "currency": "USD",
+        "image": "https://via.placeholder.com/200?id=10",
+        "rating": 3.0
+    },
+    {
+        "id": 11,
+        "title": "Electric Scooter",
+        "description": "See your workout results instantly",
+        "price": 215.54,
+        "currency": "USD",
+        "image": "https://via.placeholder.com/200?id=11",
+        "rating": 2.3
+    },
+    {
+        "id": 12,
+        "title": "Electric Kettle",
+        "description": "Transform your living room into a cinema",
+        "price": 287.27,
+        "currency": "USD",
+        "image": "https://via.placeholder.com/200?id=12",
+        "rating": 2.4
+    },
+    {
+        "id": 13,
+        "title": "Smartwatch",
+        "description": "Control all your smart devices in one place",
+        "price": 329.9,
+        "currency": "USD",
+        "image": "https://via.placeholder.com/200?id=13",
+        "rating": 3.3
+    },
+    {
+        "id": 14,
+        "title": "Action Camera",
+        "description": "Control all your smart devices in one place",
+        "price": 135.78,
+        "currency": "USD",
+        "image": "https://via.placeholder.com/200?id=14",
+        "rating": 1.2
+    },
+    {
+        "id": 15,
+        "title": "Television",
+        "description": "Crystal-clear resolution for all your tasks",
+        "price": 567.13,
+        "currency": "USD",
+        "image": "https://via.placeholder.com/200?id=15",
+        "rating": 3.4
+    },
+    {
+        "id": 16,
+        "title": "Smart Water Bottle",
+        "description": "Record action-packed moments with ease",
+        "price": 875.76,
+        "currency": "USD",
+        "image": "https://via.placeholder.com/200?id=16",
+        "rating": 3.5
+    },
+    {
+        "id": 17,
+        "title": "Fitness Tracker",
+        "description": "Answer your door from anywhere",
+        "price": 814.85,
+        "currency": "USD",
+        "image": "https://via.placeholder.com/200?id=17",
+        "rating": 4.7
+    },
+    {
+        "id": 18,
+        "title": "4K Monitor",
+        "description": "Immerse yourself in superior audio quality",
+        "price": 260.57,
+        "currency": "USD",
+        "image": "https://via.placeholder.com/200?id=18",
+        "rating": 2.6
+    },
+    {
+        "id": 19,
+        "title": "Noise Cancelling Headphones",
+        "description": "Enhance your entertainment experience",
+        "price": 134.75,
+        "currency": "USD",
+        "image": "https://via.placeholder.com/200?id=19",
+        "rating": 1.6
+    },
+    {
+        "id": 20,
+        "title": "Gaming Keyboard",
+        "description": "Control all your smart devices in one place",
+        "price": 41.24,
+        "currency": "USD",
+        "image": "https://via.placeholder.com/200?id=20",
+        "rating": 2.0
+    },
+    {
+        "id": 21,
+        "title": "Smart Display",
+        "description": "Create objects with advanced technology",
+        "price": 820.14,
+        "currency": "USD",
+        "image": "https://via.placeholder.com/200?id=21",
+        "rating": 1.6
+    },
+    {
+        "id": 22,
+        "title": "Graphics Tablet",
+        "description": "Step into virtual reality with comfort",
+        "price": 324.81,
+        "currency": "USD",
+        "image": "https://via.placeholder.com/200?id=22",
+        "rating": 3.3
+    },
+    {
+        "id": 23,
+        "title": "Electric Kettle",
+        "description": "Brew coffee the smart way",
+        "price": 175.4,
+        "currency": "USD",
+        "image": "https://via.placeholder.com/200?id=23",
+        "rating": 1.2
+    },
+    {
+        "id": 24,
+        "title": "Smartwatch",
+        "description": "Store and transfer your files securely",
+        "price": 254.62,
+        "currency": "USD",
+        "image": "https://via.placeholder.com/200?id=24",
+        "rating": 1.7
+    },
+    {
+        "id": 25,
+        "title": "Laptop",
+        "description": "Compact, powerful, and stylish",
+        "price": 759.89,
+        "currency": "USD",
+        "image": "https://via.placeholder.com/200?id=25",
+        "rating": 4.3
+    },
+    {
+        "id": 26,
+        "title": "Bluetooth Keyboard",
+        "description": "Keep an eye on your home from anywhere",
+        "price": 599.28,
+        "currency": "USD",
+        "image": "https://via.placeholder.com/200?id=26",
+        "rating": 1.6
+    },
+    {
+        "id": 27,
+        "title": "Portable Projector",
+        "description": "Read your favorite books on the go",
+        "price": 609.02,
+        "currency": "USD",
+        "image": "https://via.placeholder.com/200?id=27",
+        "rating": 2.2
+    },
+    {
+        "id": 28,
+        "title": "Noise Cancelling Headphones",
+        "description": "Control your home lighting with ease",
+        "price": 732.42,
+        "currency": "USD",
+        "image": "https://via.placeholder.com/200?id=28",
+        "rating": 1.7
+    },
+    {
+        "id": 29,
+        "title": "VR Headset",
+        "description": "Never lose track of your belongings",
+        "price": 343.45,
+        "currency": "USD",
+        "image": "https://via.placeholder.com/200?id=29",
+        "rating": 1.5
+    },
+    {
+        "id": 30,
+        "title": "Electric Scooter",
+        "description": "Type with ease and comfort",
+        "price": 917.09,
+        "currency": "USD",
+        "image": "https://via.placeholder.com/200?id=30",
+        "rating": 3.8
+    },
+    {
+        "id": 31,
+        "title": "Home Security Camera",
+        "description": "Control your appliances remotely",
+        "price": 817.83,
+        "currency": "USD",
+        "image": "https://via.placeholder.com/200?id=31",
+        "rating": 4.4
+    },
+    {
+        "id": 32,
+        "title": "Smartwatch",
+        "description": "Top choice for professionals and enthusiasts",
+        "price": 52.61,
+        "currency": "USD",
+        "image": "https://via.placeholder.com/200?id=32",
+        "rating": 3.0
+    },
+    {
+        "id": 33,
+        "title": "Portable Projector",
+        "description": "Ergonomically designed for maximum comfort",
+        "price": 385.83,
+        "currency": "USD",
+        "image": "https://via.placeholder.com/200?id=33",
+        "rating": 3.7
+    },
+    {
+        "id": 34,
+        "title": "Smart Display",
+        "description": "Stay hydrated with smart technology",
+        "price": 111.42,
+        "currency": "USD",
+        "image": "https://via.placeholder.com/200?id=34",
+        "rating": 2.2
+    },
+    {
+        "id": 35,
+        "title": "Streaming Stick",
+        "description": "Bring the big screen experience anywhere",
+        "price": 269.39,
+        "currency": "USD",
+        "image": "https://via.placeholder.com/200?id=35",
+        "rating": 3.2
+    },
+    {
+        "id": 36,
+        "title": "Bluetooth Keyboard",
+        "description": "A perfect blend of form and function",
+        "price": 697.37,
+        "currency": "USD",
+        "image": "https://via.placeholder.com/200?id=36",
+        "rating": 4.5
+    },
+    {
+        "id": 37,
+        "title": "VR Headset",
+        "description": "Record action-packed moments with ease",
+        "price": 850.06,
+        "currency": "USD",
+        "image": "https://via.placeholder.com/200?id=37",
+        "rating": 4.8
+    },
+    {
+        "id": 38,
+        "title": "Gaming Chair",
+        "description": "Regulate your home temperature smartly",
+        "price": 367.66,
+        "currency": "USD",
+        "image": "https://via.placeholder.com/200?id=38",
+        "rating": 4.6
+    },
+    {
+        "id": 39,
+        "title": "Smart Display",
+        "description": "The best companion for your everyday needs",
+        "price": 540.74,
+        "currency": "USD",
+        "image": "https://via.placeholder.com/200?id=39",
+        "rating": 4.2
+    },
+    {
+        "id": 40,
+        "title": "Television",
+        "description": "Capture stunning footage from above",
+        "price": 335.87,
+        "currency": "USD",
+        "image": "https://via.placeholder.com/200?id=40",
+        "rating": 4.2
+    },
+    {
+        "id": 41,
+        "title": "Portable Charger",
+        "description": "Keep an eye on your home from anywhere",
+        "price": 295.24,
+        "currency": "USD",
+        "image": "https://via.placeholder.com/200?id=41",
+        "rating": 1.7
+    },
+    {
+        "id": 42,
+        "title": "Robot Vacuum",
+        "description": "The best companion for your everyday needs",
+        "price": 120.22,
+        "currency": "USD",
+        "image": "https://via.placeholder.com/200?id=42",
+        "rating": 3.1
+    },
+    {
+        "id": 43,
+        "title": "Smart Coffee Maker",
+        "description": "Boil water efficiently",
+        "price": 433.79,
+        "currency": "USD",
+        "image": "https://via.placeholder.com/200?id=43",
+        "rating": 3.8
+    },
+    {
+        "id": 44,
+        "title": "Bluetooth Keyboard",
+        "description": "Stream your favorite content with ease",
+        "price": 841.05,
+        "currency": "USD",
+        "image": "https://via.placeholder.com/200?id=44",
+        "rating": 2.7
+    },
+    {
+        "id": 45,
+        "title": "Streaming Stick",
+        "description": "Crystal-clear resolution for all your tasks",
+        "price": 481.8,
+        "currency": "USD",
+        "image": "https://via.placeholder.com/200?id=45",
+        "rating": 1.5
+    },
+    {
+        "id": 46,
+        "title": "Noise Cancelling Headphones",
+        "description": "Enhance your entertainment experience",
+        "price": 342.17,
+        "currency": "USD",
+        "image": "https://via.placeholder.com/200?id=46",
+        "rating": 4.5
+    },
+    {
+        "id": 47,
+        "title": "3D Printer",
+        "description": "Protect your home with smart security",
+        "price": 752.98,
+        "currency": "USD",
+        "image": "https://via.placeholder.com/200?id=47",
+        "rating": 1.9
+    },
+    {
+        "id": 48,
+        "title": "Noise Cancelling Headphones",
+        "description": "Draw and design with precision",
+        "price": 455.16,
+        "currency": "USD",
+        "image": "https://via.placeholder.com/200?id=48",
+        "rating": 1.3
+    },
+    {
+        "id": 49,
+        "title": "Drone",
+        "description": "Transform your living room into a cinema",
+        "price": 437.84,
+        "currency": "USD",
+        "image": "https://via.placeholder.com/200?id=49",
+        "rating": 1.2
+    },
+    {
+        "id": 50,
+        "title": "Smartwatch",
+        "description": "Type with ease and comfort",
+        "price": 961.91,
+        "currency": "USD",
+        "image": "https://via.placeholder.com/200?id=50",
+        "rating": 1.9
+    }
+]
